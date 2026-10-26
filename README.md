@@ -1,118 +1,80 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Razin</strong>
+  Hi, I'm <strong>Razin Mohammed PT</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Next.JS • Recact Native</h3>
+<h3>Full Stack Engineer & AI SaaS Builder • Founder at <a href="https://zydcode.in">@zydcode</a></h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I build scalable web apps, AI automation systems, and developer tools from prototype to production. Obsessed with clean architecture, high-performance UIs, and turning complex ideas into intuitive software.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:razinmohammedpt@gmail.com"><img src="https://img.shields.io/badge/📧razinmohammedpt@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <a href="mailto:razinmohammedpt@gmail.com"><img src="https://img.shields.io/badge/📧_razinmohammedpt@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="https://zydcode.in"><img src="https://img.shields.io/badge/🏢_zydcode.in-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🎓_IIIT_Kottayam_CSE-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
+<h3>🌐 Connect & Socials</h3>
   
 <p align="left">
-  <a href="https://razin-amber.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logoColor=white" />
+  <a href="https://razin.zydcode.in">
+    <img src="https://img.shields.io/badge/Portfolio-razin.zydcode.in-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
-
   <a href="https://github.com/Razin-developer">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Razin--developer-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-
-  <a href="https://instagram.com/r._az.in">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  <a href="https://instagram.com/razin.dev">
+    <img src="https://img.shields.io/badge/Instagram-razin.dev-E1306C?style=for-the-badge&logoColor=white" />
   </a>
-
   <a href="https://linkedin.com/in/razin-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-razin--dev-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-
   <a href="https://x.com/zydcode">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter_%2F_X-@zydcode-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
-
   <a href="https://www.youtube.com/@razinmohammedpt">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-@razinmohammedpt-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/razin.dev">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-razin.dev-FFDD00?style=for-the-badge&logoColor=black" />
   </a>
 </p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Razin-developer&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,c,typescript" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgresql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,andriodstudio" />
-</td>
-</tr>
-</table>
-</p>
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Razin-developer&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-## ❤️ Support Me
+### 🚀 Featured & Latest Projects
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Geomight** | Source-linked walkthrough guides, journal workspace, and step-by-step assistance. | Next.js, TypeScript | [Live Site](https://geomight.com) |
+| **DoSaveIt** | Turn saved reels and media into actionable execution steps and plans. | TypeScript, AI, React | [Live Site](https://dosave.it) |
+| **RightAnswer** | Local-first AI study partner with Rust backend, Qdrant retrieval, and Flutter/React app. | Rust, Qdrant, Dart, React | [GitHub](https://github.com/Razin-developer/RightAnswer) |
+| **Sulphur** | High-performance modern platform built under zydcode. | TypeScript, Next.js | [Live Site](https://sulphur.zydcode.in) • [GitHub](https://github.com/Razin-developer/sulphur) |
+| **openbucket** | Turn any local disk or folder into S3-compatible object storage — 1 daemon, 1 CLI, web dashboard. | TypeScript, Node.js | [GitHub](https://github.com/Razin-developer/openbucket) |
+| **adv.flow** | Desktop automation tool for developers to restore local dev environments in one click. | TypeScript, Tauri | [GitHub](https://github.com/Razin-developer/adv.flow) |
+| **RunModels** | Modern AI model VRAM & System RAM calculator powered by Hugging Face Open API. | JavaScript, HuggingFace | [GitHub](https://github.com/Razin-developer/RunModels) |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Languages:** TypeScript, JavaScript, Python, Rust, Kotlin, Dart, C#, C, HTML5/CSS3
+* **Frontend & UI:** React 19, Next.js 15+, Tailwind CSS, Framer Motion, shadcn/ui
+* **Mobile / Desktop:** React Native (Expo), Flutter, Jetpack Compose, Tauri 2
+* **Backend & Systems:** Node.js, Express, Hono, Bun, REST, GraphQL, WebSockets, Docker
+* **Databases & Vector:** MongoDB, PostgreSQL, Qdrant Vector DB, Firebase, Room
+* **AI & Machine Learning:** OpenAI API, Google Gemini, Hugging Face, YOLOv8, ONNX Runtime
+
+---
+
+## ❤️ Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="https://buymeacoffee.com/razin.dev">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
   </a>
 </p>
-
-Displaying README.md.
